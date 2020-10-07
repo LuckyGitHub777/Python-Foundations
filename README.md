@@ -1,1 +1,1 @@
-# This is a collection of workshops for foundations of python
+# This is a collection of workshops for python foundations
