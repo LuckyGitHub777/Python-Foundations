@@ -1,2 +1,2 @@
 # Python Foundations
-## This is a collection of Python labs and workshops for beginners and foundations
+## A collection of foundational Python labs and workshops for beginners
